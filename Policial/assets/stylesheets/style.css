@@ -1,5 +1,43 @@
 @charset "UTF-8";
 
 body {
-	background: 
+	background: #FAE5D4;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	margin-left: 25%;
+	margin-right: 25%;
+	position: relative;
+}
+
+h1  {
+	color: #000000
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #0C2537;
+	font-size: 25px;
+	text-align: left;
+	list-style-type: square;
+}
+
+p {
+	color: black;
+	font-size: 16px;
+	text-align: justify;
+	word-spacing: 1px;
+
+}
+
+.left-img {
+	float: left;
+	padding-right: 21px;
+	max-width: 100%;
+}
+
+.right-img {
+	float: right;
+	padding-left: 21px;
+	max-width: 100%;
 }
