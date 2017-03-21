@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body {
+	background: #ffffff;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	margin-left: 25%;
+	margin-right: 25%;
+	position: absolute;
+}
+
+h1 {
+	color: #000000;
+	font-size: 30px;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+h2 {
+	color: #666666;
+	font-size: 18px;
+	text-align: justify;
+	font-weight: inherit;
+}
+
+p {
+	color: #000000;
+	font-size: 15px;
+	text-align: justify;
+	letter-spacing: 1px;
+
+}
+
+.principal-img {
+	position: relative;
+	max-width: 100%;
+}
+
+.right-img {
+	float: right;
+	position: relative;
+	padding-left: 15px;
+	max-width: 100%;
+}
