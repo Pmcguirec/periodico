@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+	background: #e1e6f3;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	margin-left: 25%;
+    margin-right: 25%;
+	position: absolute;
+}
+
+h1 {
+	color: #000000;
+	font-size: 30px;
+	text-align: center;
+}
+
+h2 {
+	color: #666666;
+	font-size: 18px;
+	font-weight: 100;
+	text-align: justify;
+}
+
+p {
+	color: #000000;
+	font-size: 15px;
+	text-align: justify;
+}
+
+.principal-img {
+	position: relative;
+	max-width: 100%
+}
+.right-img {
+	float: right;
+	padding-left: 15px;
+	max-width: 100%;
+}
