@@ -1,7 +1,7 @@
-@charset "UTF-8";
+@charset "utf-8";
 
 body {
-	background: #ffffff;
+	background: #f9f6f6;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	margin-left: 25%;
 	margin-right: 25%;
@@ -10,36 +10,32 @@ body {
 
 h1 {
 	color: #000000;
-	font-size: 30px;
 	text-align: center;
+	font-size: 28px;
 	letter-spacing: 1px;
 }
 
 h2 {
 	color: #666666;
-	font-size: 18px;
 	text-align: justify;
+	font-size: 20px;
 	font-weight: inherit;
 }
 
 p {
 	color: #000000;
-	font-size: 15px;
 	text-align: justify;
-	letter-spacing: 1px;
-
+	font-size: 15px;
 }
 
 .principal-img {
 	position: relative;
 	max-width: 100%;
+	width: 100%;
 }
 
 .right-img {
 	float: right;
-	position: relative;
-	padding-left: 15px;
+	padding-left: 34px;
 	max-width: 100%;
 }
-
-
