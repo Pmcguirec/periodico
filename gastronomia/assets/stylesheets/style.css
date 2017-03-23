@@ -1,0 +1,46 @@
+
+@charset "UTF-8";
+
+body {
+	background: #dad5d1;
+    margin-left: 25%;
+    margin-right: 25%;
+    position: absolute;
+}
+
+h1 {
+	color: #000000;
+	font-size: 34px;
+	text-align: center;
+}
+
+h2 {
+	color: #5a3708;
+	font-size: 19px;
+	font-weight: 100;
+	text-align: justify;
+}
+
+p {
+	color: #000000;
+	font-size: 17px;
+	text-align: justify;
+}
+
+.principal-img {
+	position: relative;
+	width: 100%;
+	max-width: 100%
+}
+
+.img{
+	position: relative;
+	width: 100%;
+	max-width: 100%
+}
+
+.color {
+	color: #806022;
+	font-weight: 600;
+
+}
